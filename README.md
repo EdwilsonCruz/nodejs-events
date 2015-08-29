@@ -61,7 +61,7 @@ var cagar = function () {
   console.log('cagando...');
 };
 
-var pegarPapelHigienico = function () {, ve
+var pegarPapelHigienico = function () {
   console.log('pegando o papele higienico com calma e cuidado...');
 };
 var limparABunda = function () {
